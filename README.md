@@ -8,9 +8,9 @@
 </a> -->
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=JoshSevy&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/JoshSevy/JoshSevy?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <a href="https://github.com/JoshSevy/JoshSevy/actions">
+ <!-- <a href="https://github.com/JoshSevy/JoshSevy/actions">
    <img alt="github-activity" src="https://github.com/JoshSevy/JoshSevy/workflows/update-gh-activity/badge.svg">
-  </a>
+  </a> -->
 </p>
 </br>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/KAG9KMNmyVh5KhUEFN/giphy.gif">
@@ -18,7 +18,8 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm an aspiring 🔭️ Front-End Software Engineer.
+- I'm an aspiring 🔭️ Software Engineer.
+- Current Student at Turing School of Software and Design. **Graduate November 2020**
 - I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
@@ -64,17 +65,8 @@
 [<img src="https://img.shields.io/badge/Stackoverflow-joshua--sevy-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
 [<img src="https://img.shields.io/badge/Twitter-@joshsevy-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
 
-### 👣 Next Steps
 
-_Since you don't want to leave my profile just yet! Here are a few things you can do :_
-
-❤️ Offer work : Send the details on :
-[<img src="https://img.shields.io/badge/LinkedIn-joshua--sevy-informational?style=flat-square&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
-or 
-[<img src="https://img.shields.io/badge/Outlook-joshuasevy@outlook.com-informational?style=flat-square&labelColor=black&logoColor=d14836&logo=microsoft&color=d14836"/>][outlook]
-
-❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/JoshSevy?label=Follow&style=social)](https://github.com/JoshSevy/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@josh_sevy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JoshSevy)](https://twitter.com/JoshSevy)
-if you are on a similar path as mine.
+❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/JoshSevy?label=Follow&style=social)](https://github.com/JoshSevy/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@joshsevy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JoshSevy)](https://twitter.com/JoshSevy)
 
 <!-- ## **Badges:**
 
@@ -93,7 +85,7 @@ if you are on a similar path as mine.
 
 [linkedin]: https://www.linkedin.com/in/joshua-sevy
 [outlook]: mailto:joshuasevy@outlook.com "Lets connect through email"
-[stackoverflow]: https://stackoverflow.com/
+[stackoverflow]: https://stackoverflow.com/users/12935748/joshuasevy
 [github]: https://github.com/JoshSevy
 [licence]: https://github.com/JoshSevy/JoshSevy/blob/master/LICENSE
 [twitter]: https://twitter.com/joshsevy
