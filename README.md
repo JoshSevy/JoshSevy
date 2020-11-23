@@ -3,9 +3,9 @@
 ---
 
 <p align="center">
-<!-- <a href="https://github.com/JoshSevy/JoshSevy/blob/master/LICENCE">
+<a href="https://github.com/JoshSevy/JoshSevy/blob/master/LICENCE">
 <img alt="Licence" src="https://img.shields.io/github/license/JoshSevy/JoshSevy?color=brightgreen&label=LICENCE&logo=MIT"/>
-</a> -->
+</a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=JoshSevy&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/JoshSevy/JoshSevy?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
  <!-- <a href="https://github.com/JoshSevy/JoshSevy/actions">
@@ -13,7 +13,7 @@
   </a> -->
 </p>
 </br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/8OMSzA321pAVmKj6C0/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif>
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
