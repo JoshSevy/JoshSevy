@@ -13,7 +13,7 @@
   </a> -->
 </p>
 </br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif">
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
