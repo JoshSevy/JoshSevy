@@ -82,10 +82,9 @@
 <!-- ## **🔥️ Recent Github Activity:** -->
 
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://madewithlove.now.sh/us?heart=true&colorA=%23e31616&colorB=%234338dc&template=for-the-badge&text=Denver" alt="Made with love in Denver">
-
-</p>
+</p> -->
 
 <!-- Links of Definitions -->
 
