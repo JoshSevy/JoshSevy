@@ -18,9 +18,10 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- I'm an aspiring 🔭️ Software Engineer.
-- Current Student at Turing School of Software and Design. **Graduate November 2020**
-- I'm a knowledge seeker & I love to learn new 💻 **Technologies**.
+- 🔭️ Software Engineer.
+- Recent Graduate from Turing School of Software and Design.
+- Constantly learning and Growing.
+- Recent interests are: Python, non-relational databases, algorithm patterns.
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
 
