@@ -92,7 +92,7 @@
 <!-- Links of Definitions -->
 
 [linkedin]: https://www.linkedin.com/in/joshua-sevy
-[outlook]: mailto:joshuasevy@outlook.com "Lets connect through email"
+[outlook]: mailto:joshuasevy@outlook.com 
 [stackoverflow]: https://stackoverflow.com/users/12935748/joshuasevy
 [github]: https://github.com/JoshSevy
 [twitter]: https://twitter.com/joshsevy
