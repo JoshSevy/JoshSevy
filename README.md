@@ -41,13 +41,13 @@
 
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=ffff3f)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=c)
+![C#](https://img.shields.io/badge/-C_Sharp-black?style=flat-square&logo=c-sharp)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Denojs](https://img.shields.io/badge/-Denojs-black?style=flat-square&logo=Deno.js)
+![Denojs](https://img.shields.io/badge/-Denojs-black?style=flat-square&logo=Deno)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 
 
@@ -58,8 +58,11 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 
-![VSCode](https://img.shields.io/badge/-vscode-black?style=flat-square&logo=visual-studio-code)
+![VSCode](https://img.shields.io/badge/-VScode-black?style=flat-square&logo=visual-studio-code)
+![Visual Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio)
 ![Git](https://img.shields.io/badge/git-black.svg?&style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-black.svg?&style=flat-square&logo=github&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
 ![TravisCi](https://img.shields.io/badge/travis-black.svg?&style=flat-square&logo=travis-ci)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 
@@ -92,7 +95,6 @@
 [outlook]: mailto:joshuasevy@outlook.com "Lets connect through email"
 [stackoverflow]: https://stackoverflow.com/users/12935748/joshuasevy
 [github]: https://github.com/JoshSevy
-[licence]: https://github.com/JoshSevy/JoshSevy/blob/master/LICENSE
 [twitter]: https://twitter.com/joshsevy
 
 
