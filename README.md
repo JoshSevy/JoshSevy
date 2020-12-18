@@ -71,6 +71,7 @@
 [<img src="https://img.shields.io/badge/LinkedIn-joshua--sevy-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
 [<img src="https://img.shields.io/badge/Outlook-joshuasevy@outlook.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=microsoft&color=d14836"/>][outlook]
 [<img src="https://img.shields.io/badge/Github-JoshSevy-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
+[<img src="https://img.shields.io/badge/HackerRank-Joshua_Sevy-informational?style=for-the-badge&labelColor=black&logo=hackerrank&color=7d88e6"/>][hackerrank]
 [<img src="https://img.shields.io/badge/Stackoverflow-joshua--sevy-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
 [<img src="https://img.shields.io/badge/Twitter-@joshsevy-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
 
@@ -96,7 +97,7 @@
 [stackoverflow]: https://stackoverflow.com/users/12935748/joshuasevy
 [github]: https://github.com/JoshSevy
 [twitter]: https://twitter.com/joshsevy
-
+[hackerrank]: https://www.hackerrank.com/joshuasevy
 
 
 <!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
