@@ -3,9 +3,6 @@
 ---
 
 <p align="center">
-<a href="https://github.com/JoshSevy/JoshSevy/blob/master/LICENCE">
-<img alt="Licence" src="https://img.shields.io/github/license/JoshSevy/JoshSevy?color=brightgreen&label=LICENCE&logo=MIT"/>
-</a>
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=JoshSevy&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/JoshSevy/JoshSevy?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
  <!-- <a href="https://github.com/JoshSevy/JoshSevy/actions">
@@ -44,6 +41,8 @@
 
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=ffff3f)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![C#](https://img.shields.io/badge/-C#-black?style=flat-square&logo=c)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=c)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
