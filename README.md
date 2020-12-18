@@ -42,13 +42,12 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=ffff3f)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C#](https://img.shields.io/badge/-C_Sharp-black?style=flat-square&logo=c-sharp)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
+![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=flat-square&logo=reactivex)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Denojs](https://img.shields.io/badge/-Denojs-black?style=flat-square&logo=Deno)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Nodejs](https://img.shields.io/badge/-Node-black?style=flat-square&logo=node.js)
+![Denojs](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
@@ -56,16 +55,17 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
+![StoryBook](https://img.shields.io/badge/-StoryBook-black?style=flat-square&logo=storybook)
 
 
-![VSCode](https://img.shields.io/badge/-VScode-black?style=flat-square&logo=visual-studio-code)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio)
-![Git](https://img.shields.io/badge/git-black.svg?&style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-black.svg?&style=flat-square&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-black.svg?&style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black.svg?&style=flat-square&logo=github&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
-![TravisCi](https://img.shields.io/badge/travis-black.svg?&style=flat-square&logo=travis-ci)
+![TravisCi](https://img.shields.io/badge/Travis-black.svg?&style=flat-square&logo=travis-ci)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ## 🌐 **Reach out to me:** ️
 
 [<img src="https://img.shields.io/badge/LinkedIn-joshua--sevy-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
