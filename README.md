@@ -1,11 +1,11 @@
-# <p align="center">️ **Welcome Friend!!<img src="./assets/wave.gif" alt="waving hand" width="30px">I am Josh Sevy**</p>
+# <p align="center">️ **Welcome, I am Josh Sevy👨🏼‍💻**</p>
 
 ---
 
 <p align="center">
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=JoshSevy&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
 <img alt="Last Commit" src="https://img.shields.io/github/last-commit/JoshSevy/JoshSevy?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
- <!-- <a href="https://github.com/JoshSevy/JoshSevy/actions">
+<!--  <a href="https://github.com/JoshSevy/JoshSevy/actions">
    <img alt="github-activity" src="https://github.com/JoshSevy/JoshSevy/workflows/update-gh-activity/badge.svg">
   </a> -->
 </p>
@@ -18,21 +18,23 @@
 - 🔭️ Software Engineer.
 - Recent Graduate from Turing School of Software and Design.
 - Constantly learning and Growing.
-- Recent interests are: Python, non-relational databases, algorithm patterns.
+- Recent interests are: C#, ASP.NET, Angular, SQL
 
-### &nbsp; &nbsp; &nbsp; &nbsp; **Keep Learning** 👨‍🎓️️
+### &nbsp; &nbsp; &nbsp; &nbsp; **I ❤️ Learning!** 😎
 
 ---
 
 ## 📈 **Github Stats:**
 
 <a href="https://github.com/JoshSevy">
-<img width="440" align="center" src="https://github-readme-stats.vercel.app/api?username=JoshSevy&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JoshSevy&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
 <a href="https://github.com/JoshSevy/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoshSevy&layout=compact&theme=blue-green" />
+<img width="48%" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoshSevy&layout=compact&theme=blue-green&count_private=true"" />
 </a>
 </br>
+
+---
 
 ## 🏆 **Github Profile Trophy:**
  <img src="https://github-profile-trophy.vercel.app/?username=JoshSevy&column=7&theme=gruvbox"/>
@@ -85,10 +87,11 @@
 
 <!-- ## **🔥️ Recent Github Activity:** -->
 
+---
 
-<!-- <p align="center">
+ <p align="center">
 <img src="https://madewithlove.now.sh/us?heart=true&colorA=%23e31616&colorB=%234338dc&template=for-the-badge&text=Denver" alt="Made with love in Denver">
-</p> -->
+</p> 
 
 <!-- Links of Definitions -->
 
