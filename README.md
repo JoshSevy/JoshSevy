@@ -37,9 +37,8 @@
 ---
 
 ## 🏆 **Github Profile Trophy:**
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=JoshSevy&column=7&theme=gruvbox"/>
-</p>
+
+ <img width="125%" src="https://github-profile-trophy.vercel.app/?username=JoshSevy&column=7&theme=gruvbox"/>
 
 ---
 
