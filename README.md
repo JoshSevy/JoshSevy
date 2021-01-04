@@ -10,7 +10,7 @@
   </a> -->
 </p>
 </br>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif">
+<img align="right" alt="Coding" width="275" src="https://media.giphy.com/media/GnTHlXYp08VDJllWj7/giphy.gif">
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
@@ -30,14 +30,18 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JoshSevy&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
 </a>
 <a href="https://github.com/JoshSevy/github-readme-stats">
-<img width="48%" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoshSevy&layout=compact&theme=blue-green&count_private=true"" />
+<img width="40%" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoshSevy&layout=compact&theme=blue-green&count_private=true"" />
 </a>
 </br>
 
 ---
 
 ## 🏆 **Github Profile Trophy:**
+<p align="center">
  <img src="https://github-profile-trophy.vercel.app/?username=JoshSevy&column=7&theme=gruvbox"/>
+</p>
+
+---
 
 ## 🛠️ **Languages & Tools:**
 
