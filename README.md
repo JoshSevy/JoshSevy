@@ -42,12 +42,6 @@
 
 ---
 
-## 🧙🏻‍♂️ Current Streak
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JoshSevy)
-
----
-
 ## 🛠️ **Languages & Tools:**
 
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=ffff3f)
