@@ -19,8 +19,12 @@
 - Recent Graduate from Turing School of Software and Design.
 - Constantly learning and Growing.
 - Recent interests are: C#, ASP.NET, Angular, SQL
+- Love the Colorado Outdoors (Hiking, whitewater kayaking, exploring)
+- Love practicing Olympic Judo, Mauy Thai, and Boxing *please go away COVID* 😒
 
 ### &nbsp; &nbsp; &nbsp; &nbsp; **I ❤️ Learning!** 😎
+
+
 
 ---
 
