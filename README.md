@@ -10,7 +10,7 @@
   </a> -->
 </p>
 </br>
-<img align="right" alt="Coding" width="275" src="https://giphy.com/gifs/lyska-coder-0fox-zero-fox-given-mJRl8YOn9Zm3gzyq6f">
+<img align="right" alt="Coding" width="275" src="https://media.giphy.com/media/mJRl8YOn9Zm3gzyq6f/giphy.gif">
 </br>
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
