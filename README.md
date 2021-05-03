@@ -16,15 +16,9 @@
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - 🔭️ Software Engineer.
-- Recent Graduate from Turing School of Software and Design.
+- Graduate from Turing School of Software and Design.
 - Constantly learning and Growing.
-- Recent interests are: C#, ASP.NET, Angular, SQL
 - Love the Colorado Outdoors (Hiking, whitewater kayaking, exploring)
-- Love practicing Olympic Judo, Mauy Thai, and Boxing *please go away COVID* 😒
-
-### &nbsp; &nbsp; &nbsp; &nbsp; **I ❤️ Learning!** 😎
-
-
 
 ---
 
