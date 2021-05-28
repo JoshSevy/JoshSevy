@@ -48,8 +48,8 @@
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=flat-square&logo=reactivex)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-
-![Nodejs](https://img.shields.io/badge/-Node-black?style=flat-square&logo=Nodejs)
+                                                                                                        
+![Nodejs](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node-dot-js&logoColor=white)
 ![Denojs](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 ![GraphQl](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
