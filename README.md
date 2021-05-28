@@ -15,7 +15,7 @@
 
 ## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
-- 🔭️ Software Engineer.
+- 🔭️ Software Developer II 
 - Graduate from Turing School of Software and Design.
 - Constantly learning and Growing.
 - Love the Colorado Outdoors (Hiking, whitewater kayaking, exploring)
@@ -49,9 +49,13 @@
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=flat-square&logo=reactivex)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Node-black?style=flat-square&logo=node.js)
-![Denojs](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
 
+                                                                                                           
+                                                                                                           ![Nodejs](https://img.shields.io/badge/-Node-black?style=flat-square&logo=node.js)
+![Denojs](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
+                                                                                                           ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![GraphQl](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
+                                                                                                           ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
@@ -68,7 +72,7 @@
 ![TravisCi](https://img.shields.io/badge/Travis-black.svg?&style=flat-square&logo=travis-ci)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+
 ## 🌐 **Reach out to me:** ️
 
 [<img src="https://img.shields.io/badge/LinkedIn-joshua--sevy-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
