@@ -50,20 +50,18 @@
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=flat-square&logo=reactivex)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 
-                                                                                                           
-                                                                                                           ![Nodejs](https://img.shields.io/badge/-Node-black?style=flat-square&logo=node.js)
+![Nodejs](https://img.shields.io/badge/-Node-black?style=flat-square&logo=node.js)
 ![Denojs](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
-                                                                                                           ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 ![GraphQl](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
-                                                                                                           ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+                                                                                                           
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 ![StoryBook](https://img.shields.io/badge/-StoryBook-black?style=flat-square&logo=storybook)
-
 
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio)
 ![Git](https://img.shields.io/badge/Git-black.svg?&style=flat-square&logo=git&logoColor=white)
