@@ -1,19 +1,13 @@
 # <p align="center">️ **Welcome, I am Josh Sevy👨🏼‍💻**</p>
 
----
 
 <p align="center">
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=JoshSevy&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/JoshSevy/JoshSevy?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat">
-<!--  <a href="https://github.com/JoshSevy/JoshSevy/actions">
-   <img alt="github-activity" src="https://github.com/JoshSevy/JoshSevy/workflows/update-gh-activity/badge.svg">
-  </a> -->
+<img alt="Last Commit" src="https://img.shields.io/github/last-commit/JoshSevy/JoshSevy?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat"/>
 </p>
 </br>
 <img align="right" alt="Coding" width="275" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 </br>
-
-## &nbsp; &nbsp;<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> **About Me**
 
 - 🔭️ Software Developer II 
 - Graduate from Turing School of Software and Design.
@@ -24,9 +18,14 @@
 
 ## 📈 **Github Stats:**
 
-<a href="https://github.com/JoshSevy">
+<!-- <a href="https://github.com/JoshSevy">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=JoshSevy&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
+</a> -->
+
+<a href="https://github-readme-streak-stats.herokuapp.com/?user=JoshSevy&theme=blue-green">
+   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshSevy&theme=blue-green" />
 </a>
+
 <a href="https://github.com/JoshSevy/github-readme-stats">
 <img width="40%" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoshSevy&layout=compact&theme=blue-green&count_private=true"" />
 </a>
@@ -37,7 +36,7 @@
 ## 🏆 **Github Profile Trophy:**
 
  <img width="125%" src="https://github-profile-trophy.vercel.app/?username=JoshSevy&column=7&theme=gruvbox"/>
-
+                                                                                                                                                                                                                   
 ---
 
 ## 🛠️ **Languages & Tools:**
@@ -50,7 +49,7 @@
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=flat-square&logo=reactivex)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 
-![Nodejs](https://img.shields.io/badge/-Node-black?style=flat-square&logo=node.js)
+![Nodejs](https://img.shields.io/badge/-Node-black?style=flat-square&logo=Nodejs)
 ![Denojs](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
 ![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 ![GraphQl](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
@@ -70,6 +69,7 @@
 ![TravisCi](https://img.shields.io/badge/Travis-black.svg?&style=flat-square&logo=travis-ci)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)                                                                                                           
 
 ## 🌐 **Reach out to me:** ️
 
