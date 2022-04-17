@@ -9,9 +9,8 @@
 <img align="right" alt="Coding" width="275" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 </br>
 
-- 🔭️ Software Developer II 
-- Graduate from Turing School of Software and Design.
-- Constantly learning and Growing.
+- 🔭️ Software Engineer
+- Charter Communications
 - Love the Colorado Outdoors (Hiking, whitewater kayaking, exploring)
 
 ---
