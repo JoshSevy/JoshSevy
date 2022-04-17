@@ -45,6 +45,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=ffff3f)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C#](https://img.shields.io/badge/-C_Sharp-black?style=flat-square&logo=c-sharp)
+![Xamarin](https://img.shields.io/badge/-Xamarin-black?style=flat-square&logo=xamarin)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
 ![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=flat-square&logo=reactivex)
