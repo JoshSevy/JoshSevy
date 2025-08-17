@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="275" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 </br>
 
-- 🔭️ Senior Software Engineer
+- 🔭️ Technology Manager
 - Charter Communications
 - Love the Colorado Outdoors (Hiking, whitewater kayaking, exploring)
 
