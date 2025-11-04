@@ -1,131 +1,89 @@
-# <p align="center">️ **Welcome, I am Josh Sevy👨🏼‍💻**</p>
+# 👋 Hi, I'm Josh Sevy
 
+Welcome to my GitHub profile! I'm a passionate technology leader, hands-on coder, and adventure seeker based in Colorado.
+
+![Profile views](https://komarev.com/ghpvc/?username=JoshSevy&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12)
+![Last Commit](https://img.shields.io/github/last-commit/JoshSevy/JoshSevy?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat)
+
+---
+
+## 🚀 About Me
+
+- 🔭 **Currently:** Technology Manager at Charter Communications.
+- 👨🏼‍💻 **Crafting:** Scalable solutions with TypeScript, C#, and modern web technologies.
+- 🏞️ **In Colorado:** Hiking trails, whitewater kayaking, and exploring the outdoors.
+- 💬 Ask me about leadership, software architecture, or building side-projects.
+- 🌱 **Learning/Exploring:** Serverless architectures, GraphQL, and Deno.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+> ![Typescript](https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
+> ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+> ![C#](https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
+> ![React](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=react)
+> ![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular)
+> ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno)
+> ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node-dot-js)
+> ![GraphQL](https://img.shields.io/badge/-GraphQL-e10098?style=flat-square&logo=graphql)
+> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**
+> ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+> ![Azure](https://img.shields.io/badge/-Azure-0078d4?style=flat-square&logo=microsoft-azure)
+> ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+> ![Material UI](https://img.shields.io/badge/-Material_UI-007fff?style=flat-square&logo=material-ui)
+> ![Storybook](https://img.shields.io/badge/-Storybook-ff4785?style=flat-square&logo=storybook)
+> ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088ff?style=flat-square&logo=github-actions)
+> ![Postman](https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=postman)
+> ...and more!
+
+---
+
+## 🎯 Project Highlights
+
+- **personal_site_backend**  
+  Microservices backend for my personal/blog site. TypeScript, Deno, GraphQL, and Supabase.  
+  [Repository →](https://github.com/JoshSevy/personal_site_backend)
+
+- **portfolio_frontend**  
+  Showcasing my UI/UX work, built with React and Material UI.
+
+- **Open Source Contributions**  
+  I contribute to and maintain several projects—check my pinned repositories!
+
+---
+
+## 🏆 GitHub Stats
 
 <p align="center">
-<img alt="Visitors" src="https://komarev.com/ghpvc/?username=JoshSevy&style=flat&labelColor=black&logo=github&label=PROFILE+VIEWS&color=29bf12"/>
-<img alt="Last Commit" src="https://img.shields.io/github/last-commit/JoshSevy/JoshSevy?logo=markdown&label=LAST+UPDATE&color=29bf12&style=flat"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshSevy&theme=blue-green" width="48%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JoshSevy&column=7&theme=gruvbox" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshSevy&layout=compact&theme=blue-green&count_private=true" width="48%"/>
 </p>
-</br>
-<img align="right" alt="Coding" width="275" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
-</br>
-
-- 🔭️ Technology Manager
-- Charter Communications
-- Love the Colorado Outdoors (Hiking, whitewater kayaking, exploring)
 
 ---
 
-## 📈 **Github Stats:**
+## 🌱 A Little More
 
-<!-- <a href="https://github.com/JoshSevy">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=JoshSevy&show_icons=true&include_all_commits=true&theme=blue-green&count_private=true">
-</a> -->
-
-<a href="https://github-readme-streak-stats.herokuapp.com/?user=JoshSevy&theme=blue-green">
-   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=JoshSevy&theme=blue-green" />
-</a>
-
-<a href="https://github.com/JoshSevy/github-readme-stats">
-<img width="40%" align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JoshSevy&layout=compact&theme=blue-green&count_private=true"" />
-</a>
-</br>
-
+- 🧭 Always exploring new technology trends (serverless, AI/ML, modern APIs).
+- 🎤 Occasional speaker, mentor, and team-builder.
+- ⚡ Fun fact: I’ve paddled some of Colorado’s wildest rivers!
 
 ---
 
-## 🏆 **Github Profile Trophy:**
+## 🌐 Let's Connect!
 
- <img width="125%" src="https://github-profile-trophy.vercel.app/?username=JoshSevy&column=7&theme=gruvbox"/>
-                                                                                                                                                                                                                   
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joshua--sevy-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5)](https://www.linkedin.com/in/joshua-sevy)
+[![Outlook](https://img.shields.io/badge/Outlook-joshuasevy@outlook.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=microsoft&color=d14836)](mailto:joshuasevy@outlook.com)
+[![GitHub](https://img.shields.io/badge/Github-JoshSevy-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6)](https://github.com/JoshSevy)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Joshua_Sevy-informational?style=for-the-badge&labelColor=black&logo=hackerrank&color=7d88e6)](https://www.hackerrank.com/joshuasevy)
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-joshua--sevy-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16)](https://stackoverflow.com/users/12935748/joshuasevy)
+[![Twitter](https://img.shields.io/badge/Twitter-@joshsevy-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2)](https://twitter.com/joshsevy)
 
-## 🛠️ **Languages & Tools:**
-
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=typescript&logoColor=ffff3f)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![C#](https://img.shields.io/badge/-C_Sharp-black?style=flat-square&logo=c-sharp)
-![Xamarin](https://img.shields.io/badge/-Xamarin-black?style=flat-square&logo=xamarin)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=Angular)
-![ReactiveX](https://img.shields.io/badge/-ReactiveX-black?style=flat-square&logo=reactivex)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-                                                                                                        
-![Nodejs](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node-dot-js&logoColor=white)
-![Denojs](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![GraphQl](https://img.shields.io/badge/-GraphQL-black?style=flat-square&logo=graphql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-                                                                                                           
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![StoryBook](https://img.shields.io/badge/-StoryBook-black?style=flat-square&logo=storybook)
-
-![Visual Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio)
-![Git](https://img.shields.io/badge/Git-black.svg?&style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-black.svg?&style=flat-square&logo=github&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=microsoft-azure)
-![TravisCi](https://img.shields.io/badge/Travis-black.svg?&style=flat-square&logo=travis-ci)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)                                                                                                           
-
-## 🌐 **Reach out to me:** ️
-
-[<img src="https://img.shields.io/badge/LinkedIn-joshua--sevy-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5"/>][linkedin]
-[<img src="https://img.shields.io/badge/Outlook-joshuasevy@outlook.com-informational?style=for-the-badge&labelColor=black&logoColor=d14836&logo=microsoft&color=d14836"/>][outlook]
-[<img src="https://img.shields.io/badge/Github-JoshSevy-informational?style=for-the-badge&labelColor=black&logo=github&color=7d88e6"/>][github]
-[<img src="https://img.shields.io/badge/HackerRank-Joshua_Sevy-informational?style=for-the-badge&labelColor=black&logo=hackerrank&color=7d88e6"/>][hackerrank]
-[<img src="https://img.shields.io/badge/Stackoverflow-joshua--sevy-informational?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=fe7a16&color=fe7a16"/>][stackoverflow]
-[<img src="https://img.shields.io/badge/Twitter-@joshsevy-informational?style=for-the-badge&labelColor=black&logo=twitter&logoColor=#1DA1F2&color=1da1f2"/>][twitter]
-
-
-❤️ Follow : You can follow me here on [![GitHub followers](https://img.shields.io/github/followers/JoshSevy?label=Follow&style=social)](https://github.com/JoshSevy/?tab=follow) and [![Twitter Badge](https://img.shields.io/badge/-@joshsevy-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/JoshSevy)](https://twitter.com/JoshSevy)
-
-<!-- ## **Badges:**
-
-</a> <a href="https://archiveprogram.github.com/"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif" width="40" height="40"></a>
-</a> <a href="https://github.com/pricing"><img src="https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif" width="40" height="40"></a> -->
-
-<!-- ## **🔥️ Recent Github Activity:** -->
-
----
-
- <p align="center">
-<img src="https://madewithlove.now.sh/us?heart=true&colorA=%23e31616&colorB=%234338dc&template=for-the-badge&text=Denver" alt="Made with love in Denver">
-</p> 
-
-<!-- Links of Definitions -->
-
-[linkedin]: https://www.linkedin.com/in/joshua-sevy
-[outlook]: mailto:joshuasevy@outlook.com 
-[stackoverflow]: https://stackoverflow.com/users/12935748/joshuasevy
-[github]: https://github.com/JoshSevy
-[twitter]: https://twitter.com/joshsevy
-[hackerrank]: https://www.hackerrank.com/joshuasevy
-
-
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=Firebase)
-![Socket.io](https://img.shields.io/badge/-Socket-black?style=flat-square&logo=socket.io)
-![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=Meteor)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![Material_UI](https://img.shields.io/badge/-Material_UI-black?style=flat-square&logo=material-ui)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
-![SCSS](https://img.shields.io/badge/-SCSS-black?style=flat-square&logo=SASS)
-![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c)
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
-![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu) -->
+<br/>
+<p align="center">
+  <img src="https://madewithlove.now.sh/us?heart=true&colorA=%23e31616&colorB=%234338dc&template=for-the-badge&text=Denver" alt="Made with love in Denver">
+</p>
