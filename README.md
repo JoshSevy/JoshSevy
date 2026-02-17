@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm a passionate technology leader, hands-on coder
 **Languages & Frameworks**
 > ![Typescript](https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
+> ![Java](https://img.shields.io/badge/-Java-f7df1e?style=flat-square&logo=java&logoColor=white)
 > ![C#](https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
 > ![React](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=react)
 > ![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular)
