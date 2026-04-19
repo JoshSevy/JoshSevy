@@ -10,10 +10,19 @@ Welcome to my GitHub profile! I'm a passionate technology leader, hands-on coder
 ## 🚀 About Me
 
 - 🔭 **Currently:** Technology Manager at Charter Communications.
-- 👨🏼‍💻 **Crafting:** Scalable solutions with TypeScript, C#, and modern web technologies.
+- 🏗️ **Focus:** Building and leading delivery of enterprise-scale applications (6+ years).
+- 🅰️ **Frontend:** Primarily Angular + TypeScript (design systems, performance, and maintainable UI architecture).
+- 🧠 **Always learning:** Architectural patterns for modern web + native mobile (modularity, offline-first, event-driven, and scalable frontends).
 - 🏞️ **In Colorado:** Hiking trails, whitewater kayaking, and exploring the outdoors.
-- 💬 Ask me about leadership, software architecture, or building side-projects.
-- 🌱 **Learning/Exploring:** Serverless architectures, GraphQL, and Deno.
+- 💬 Ask me about leadership, software architecture, and building high-trust engineering teams.
+
+---
+
+## ✅ Now (April 2026)
+
+- Shipping enterprise Angular applications and improving platform reliability/maintainability
+- Exploring modern architectural patterns for web + native mobile
+- Building side projects to stay hands-on and test new ideas
 
 ---
 
@@ -46,17 +55,18 @@ Welcome to my GitHub profile! I'm a passionate technology leader, hands-on coder
 
 ---
 
-## 🎯 Project Highlights
+## 🧠 Architectural interests
 
-- **personal_site_backend**  
-  Microservices backend for my personal/blog site. TypeScript, Deno, GraphQL, and Supabase.  
-  [Repository →](https://github.com/JoshSevy/personal_site_backend)
-
-- **portfolio_frontend**  
-  Showcasing my UI/UX work, built with React and Material UI.
-
-- **Open Source Contributions**  
-  I contribute to and maintain several projects—check my pinned repositories!
+- **Modular frontends (Angular)** — monorepos vs multi-repo, Nx/workspace boundaries, reusable libraries, incremental adoption
+- **Micro-frontends** — composition patterns (route-based, component-based), shared dependencies, deployment/versioning strategies
+- **Design systems at scale** — component governance, theming, accessibility, Storybook-driven development, API stability
+- **API-first platforms** — REST vs GraphQL tradeoffs, schema/versioning, contract testing, backward compatibility
+- **Event-driven architecture** — async workflows, outbox/inbox patterns, idempotency, eventual consistency
+- **Serverless & distributed systems** — when it fits, cold start mitigation, observability, cost/perf tradeoffs
+- **Reliability & observability** — SLOs, structured logging, tracing, dashboards that map to user journeys
+- **Performance engineering** — frontend performance budgets, lazy loading, caching, Core Web Vitals, build optimization
+- **Native + web convergence** — offline-first sync, shared domain models, mobile-first constraints informing web architecture
+- **Developer experience (DX)** — CI/CD pipelines, preview environments, tooling/linters, “golden path” templates
 
 ---
 
