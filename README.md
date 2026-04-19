@@ -23,7 +23,8 @@ Welcome to my GitHub profile! I'm a passionate technology leader, hands-on coder
 > ![Typescript](https://img.shields.io/badge/-Typescript-3178c6?style=flat-square&logo=typescript&logoColor=white)
 > ![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black)
 > ![Java](https://img.shields.io/badge/-Java-f7df1e?style=flat-square&logo=java&logoColor=white)
-> ![C#](https://img.shields.io/badge/-C_Sharp-239120?style=flat-square&logo=c-sharp&logoColor=white)
+> ![C#](https://img.shields.io/badge/-c%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+> ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c-sharp&logoColor=white)
 > ![React](https://img.shields.io/badge/-React-282c34?style=flat-square&logo=react)
 > ![Angular](https://img.shields.io/badge/-Angular-dd0031?style=flat-square&logo=angular)
 > ![Deno](https://img.shields.io/badge/-Deno-000000?style=flat-square&logo=deno)
@@ -35,10 +36,12 @@ Welcome to my GitHub profile! I'm a passionate technology leader, hands-on coder
 > ![Docker](https://img.shields.io/badge/-Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
 > ![Azure](https://img.shields.io/badge/-Azure-0078d4?style=flat-square&logo=microsoft-azure)
 > ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
+> ![Figma](https://img.shields.io/badge/-Figma-2496ed?style=flat-square&logo=figma&logoColor=white)
 > ![Material UI](https://img.shields.io/badge/-Material_UI-007fff?style=flat-square&logo=material-ui)
 > ![Storybook](https://img.shields.io/badge/-Storybook-ff4785?style=flat-square&logo=storybook)
 > ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088ff?style=flat-square&logo=github-actions)
 > ![Postman](https://img.shields.io/badge/-Postman-ff6c37?style=flat-square&logo=postman)
+> ![Supabase](https://img.shields.io/badge/-Supabase-2496ed?style=flat-square&logo=supabase&logoColor=white)
 > ...and more!
 
 ---
