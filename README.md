@@ -64,7 +64,6 @@ Welcome to my GitHub profile! I'm a passionate technology leader, hands-on coder
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JoshSevy&theme=blue-green" width="48%"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=JoshSevy&column=7&theme=gruvbox" width="95%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshSevy&layout=compact&theme=blue-green&count_private=true" width="48%"/>
 </p>
 
